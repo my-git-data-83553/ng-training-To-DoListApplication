@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\prath\OneDrive\Desktop\Personal_Data\ng-training-To-DoListApplication\todobackend\.metadata\.plugins\org.eclipse.jdt.core
+840160938.index
+1865797976.index
+2565356412.index
